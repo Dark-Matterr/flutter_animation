@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 
-class Sizeconfig {
+class SizeConfig {
   static MediaQueryData _mediaquery;
   static double screenHeight;
   static double screenWidth;
