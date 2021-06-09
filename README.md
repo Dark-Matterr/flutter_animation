@@ -1,7 +1,7 @@
 ### My Flutter Animations
 
 My collection of Flutter Animations that aims to improve the user experience of the application for your next flutter project.
-Built by Dominic Antigua [Dominic Antigua](https://antiguadominic.com)
+Built by [Dominic Antigua](https://antiguadominic.com)
 
 <br/>
 
